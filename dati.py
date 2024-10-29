@@ -17,3 +17,4 @@ def tabulas_izveide():
     conn.commit()
 
 tabulas_izveide()
+
